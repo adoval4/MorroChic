@@ -1,0 +1,1325 @@
+{
+  "sections": [
+    {
+      "id": "cafe_e_afins",
+      "image": "aaeaaqaaaaaaaaxlaaaajdc5y2u4zddilwi3mjytndixos1intjklwi2mgu5zwvhm2ring1 (1).jpg",
+      "name": "Cafés e afins",
+      "description": "Café gourmet especial 100 % arábica cultivado na Serra da Mantiqueira",
+      "items": [
+        {
+          "name": "Café coado",
+          "description": "Feito no coador.",
+          "extraInfo": "Para viagem + R$ 2,00",
+          "variants": [
+            {
+              "name": "P",
+              "price": 0.90
+            },
+            {
+              "name": "G",
+              "price": 1.50
+            }
+          ]
+        },
+        {
+          "name": "Café pingado",
+          "description": "Feito no coador com leite quente",
+          "variants": [
+            {
+              "name": "P",
+              "price": 1.50
+            },
+            {
+              "name": "M",
+              "price": 2.00
+            },
+            {
+              "name": "G",
+              "price": 3.50
+            }
+          ]
+        },
+        {
+          "name": "Espresso",
+          "description": "Acompanhado de água com gás.",
+          "extraInfo": "Com chantilly + R$ 1,50",
+          "variants": [
+            {
+              "name": "P",
+              "price": 3.65
+            },
+            {
+              "name": "G",
+              "price": 7.00
+            }
+          ]
+        },
+        {
+          "name": "Espresso Carioca",
+          "description": "Café espresso fraco com maior proporção de água.",
+          "variants": [
+            {
+              "name": "",
+              "price": 3.65
+            }
+          ]
+        },
+        {
+          "name": "macchiato",
+          "description": "Espresso com espuma de leite.",
+          "variants": [
+            {
+              "name": "",
+              "price": 4.00
+            }
+          ]
+        },
+        {
+          "name": "CAPUCCINO",
+          "description": "Espresso e leite vaporizado, chocolate ou canela em pó. ",
+          "variants": [
+            {
+              "name": "P",
+              "price": 4.50
+            },
+            {
+              "name": "G",
+              "price": 5.90
+            }
+          ]
+        },
+        {
+          "name": "Café C/ Chantilly",
+          "description": "Espresso e leite vaporizado, chocolate ou canela em pó. ",
+          "variants": [
+            {
+              "name": "",
+              "price": 5.50
+            }
+          ]
+        },
+        {
+          "name": "MORRO CHIC",
+          "description": "Espresso, Doce de leite e leite vaporizado.",
+          "variants": [
+            {
+              "name": "P",
+              "price": 6.95
+            },
+            {
+              "name": "G",
+              "price": 10.50
+            }
+          ]
+        },
+        {
+          "name": "MOCHA CHOCOLATE",
+          "description": "Espresso com calda de chocolate e leite vaporizado.",
+          "variants": [
+            {
+              "name": "P",
+              "price": 6.40
+            },
+            {
+              "name": "G",
+              "price": 10.50
+            }
+          ]
+        },
+        {
+          "name": "MOCHA NUTELLA",
+          "description": "Espresso, nutella e leite vaporizado.",
+          "variants": [
+            {
+              "name": "P",
+              "price": 8.50
+            },
+            {
+              "name": "G",
+              "price": 13.00
+            }
+          ]
+        },
+        {
+          "name": "MORRO CHIC PAÇOCA",
+          "description": "Espresso, leite vaporizado, doce de leite e paçoca.",
+          "variants": [
+            {
+              "name": "",
+              "price": 11.10
+            }
+          ]
+        },
+        {
+          "name": "MORRO CHIC Refrescante",
+          "variants": [
+            {
+              "name": "",
+              "price": 9.40
+            }
+          ]
+        },
+        {
+          "name": "canelinha",
+          "description": "Espresso, leite vaporizado e canela.",
+          "variants": [
+            {
+              "name": "P",
+              "price": 3.90
+            },
+            {
+              "name": "G",
+              "price": 7.20
+            }
+          ]
+        },
+        {
+          "name": "canelinha doce",
+          "description": "Espresso, leite vaporizado, leite condensado e canela.",
+          "variants": [
+            {
+              "name": "P",
+              "price": 5.00
+            },
+            {
+              "name": "G",
+              "price": 7.70
+            }
+          ]
+        },
+        {
+          "name": "CANELINHA caramelo",
+          "description": "Espresso, leite vaporizado, calda especial e canela.",
+          "variants": [
+            {
+              "name": "P",
+              "price": 4.95
+            },
+            {
+              "name": "G",
+              "price": 7.70
+            }
+          ]
+        },
+        {
+          "name": "ovomaltine",
+          "description": "Ovomaltine e leite vaporizado. Quente ou gelado.",
+          "variants": [
+            {
+              "name": "P",
+              "price": 4.30
+            },
+            {
+              "name": "G",
+              "price": 8.40
+            }
+          ]
+        },
+        {
+          "name": "CAPUCCINO c/ Chantilly",
+          "variants": [
+            {
+              "name": "",
+              "price": 9.90
+            }
+          ]
+        },
+        {
+          "name": "CAPUCCINO GELADO",
+          "description": "Espresso, leite, leite condesado, chocolate e gelo.",
+          "variants": [
+            {
+              "name": "",
+              "price": 9.90
+            }
+          ]
+        },
+        {
+          "name": "choco prestígio",
+          "description": "Cacau em pó. leite vaporizado e flavour de coco.",
+          "variants": [
+            {
+              "name": "",
+              "price": 9.90
+            }
+          ]
+        },
+        {
+          "name": "CAPUCCINO DE NUTELLA",
+          "description": "Espresso, leite vaporizado e Nutella.",
+          "variants": [
+            {
+              "name": "",
+              "price": 13.70
+            }
+          ]
+        },
+        {
+          "name": "ICE CAPUCCINO",
+          "description": "Capuccino gelado com xarope de amêndoa ou macadâmia.",
+          "extraInfo": "Ver disponibilidade do dia.",
+          "variants": [
+            {
+              "name": "",
+              "price": 10.70
+            }
+          ]
+        },
+        {
+          "name": "CHOCO QUENTE",
+          "description": "Cacau em pó e leite vaporizado.",
+          "extraInfo": "Com chantilly + R$ 4,00.",
+          "variants": [
+            {
+              "name": "M",
+              "price": 5.60
+            },
+            {
+              "name": "G",
+              "price": 7.20
+            }
+          ]
+        },
+        {
+          "name": "CHOCO TRUFADO",
+          "description": "Cacau em pó, leite vaporizado e borda de chocalate ou Nutella.",
+          "variants": [
+            {
+              "name": "",
+              "price": 16.00
+            }
+          ]
+        },
+        {
+          "name": "choco NUT",
+          "description": "Cacau em pó, leite vaporizado, flavour amêndoas.",
+          "variants": [
+            {
+              "name": "",
+              "price": 9.80
+            }
+          ]
+        },
+        {
+          "name": "AFOGATTO",
+          "description": "Espresso com sorvete de creme e chantilly.",
+          "variants": [
+            {
+              "name": "",
+              "price": 13.00
+            }
+          ]
+        },
+        {
+          "name": "COFFEE SHAKE",
+          "description": "Espresso e sorvete de creme batidos.",
+          "extraInfo": "Com chantilly + R$ 4,00.",
+          "variants": [
+            {
+              "name": "",
+              "price": 13.00
+            }
+          ]
+        },
+        {
+          "name": "COFFEE SHAKE OVOMALTINE",
+          "description": "Espresso, sorvete e ovomaltine.",
+          "variants": [
+            {
+              "name": "",
+              "price": 13.40
+            }
+          ]
+        },
+        {
+          "name": "COFFEE SHAKE LIMÃO",
+          "description": "Espresso, sorvete creme, limão e chantilly.",
+          "variants": [
+            {
+              "name": "",
+              "price": 13.90
+            }
+          ]
+        },
+        {
+          "name": "COFFEE SHAKE MARACUJÁ",
+          "description": "Espresso, sorvete, maracujá e chantilly.",
+          "variants": [
+            {
+              "name": "",
+              "price": 13.80
+            }
+          ]
+        },
+        {
+          "name": "COFFEE SHAKE NUTELlA",
+          "description": "Espresso, sorvete, nutella e raspas de chocolate.",
+          "variants": [
+            {
+              "name": "",
+              "price": 14.90
+            }
+          ]
+        },
+        {
+          "name": "toddy",
+          "description": "Leite batido com Toddy. Quente ou gelado.",
+          "variants": [
+            {
+              "name": "P",
+              "price": 2.00
+            },
+            {
+              "name": "G",
+              "price": 3.30
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sucos_e_refrigerantes",
+      "image": "shutterstock_201756329-850x476 (1).jpg",
+      "name": "Sucos e refrigerantes",
+      "items": [
+        {
+          "name": "Suco natural laranja",
+          "extraInfo": "Para viagem + R$ 2,00",
+          "variants": [
+            {
+              "name": "P",
+              "price": 4.00
+            },
+            {
+              "name": "G",
+              "price": 5.50
+            }
+          ]
+        },
+        {
+          "name": "SUCO POLPA",
+          "description": "Verificar disponibilidade do dia",
+          "extraInfo": "Para viagem + R$ 1.00",
+          "variants": [
+            {
+              "name": "",
+              "price": 4.80
+            }
+          ]
+        },
+        {
+          "name": "SUCO POLPA COM LEITE",
+          "description": "Verificar disponibilidade do dia.",
+          "extraInfo": "Para viagem + R$ 1.20",
+          "variants": [
+            {
+              "name": "",
+              "price": 5.50
+            }
+          ]
+        },
+        {
+          "name": "SUCO DE POLPA COM LARANJA",
+          "description": "Verificar disponibilidade do dia.",
+          "extraInfo": "Para viagem + R$ 1.00",
+          "variants": [
+            {
+              "name": "",
+              "price": 7.00
+            }
+          ]
+        },
+        {
+          "name": "SUCO ADES 1L",
+          "variants": [
+            {
+              "name": "",
+              "price": 7.80
+            }
+          ]
+        },
+        {
+          "name": "SUCO DEL VALLE",
+          "variants": [
+            {
+              "name": "200 ML",
+              "price": 3.60
+            },
+            {
+              "name": "290 ML",
+              "price": 3.90
+            }
+          ]
+        },
+        {
+          "name": "SUCO DEL VALLE litro",
+          "variants": [
+            {
+              "name": "",
+              "price": 7.80
+            }
+          ]
+        },
+        {
+          "name": "VITAMINAS",
+          "description": "Frutas a combinar: Maçã, banana e mamão.",
+          "extraInfo": "(Groselha opcional)",
+          "long_variants": true,
+          "variants": [
+            {
+              "name": "A base de leite",
+              "price": 7.00
+            },
+            {
+              "name": "A base de suco de laranja",
+              "price": 7.90
+            }
+          ]
+        },
+        {
+          "name": "SODA ITALIANA",
+          "description": "Água com gás, flavour de maçã verde, tangerina ou maracujá.",
+          "variants": [
+            {
+              "name": "",
+              "price": 10.20
+            }
+          ]
+        },
+        {
+          "name": "LIMONADA SUÍÇA",
+          "description": "Limão, leite condensado e sprite.",
+          "variants": [
+            {
+              "name": "",
+              "price": 6.50
+            }
+          ]
+        },
+        {
+          "name": "REFRI MINI LATA 220ml",
+          "description": "Coca, Fanta, Sprite, Guaraná.",
+          "variants": [
+            {
+              "name": "",
+              "price": 2.80
+            }
+          ]
+        },
+        {
+          "name": "REFRI GARRAFA 200ml",
+          "description": "Coca, Fanta.",
+          "extraInfo": "Ver disponibilidade.",
+          "variants": [
+            {
+              "name": "",
+              "price": 2.00
+            }
+          ]
+        },
+        {
+          "name": "REFRI LATA 350ml",
+          "description": "Coca, Fanta.",
+          "extraInfo": "Ver disponibilidade.",
+          "variants": [
+            {
+              "name": "",
+              "price": 3.50
+            }
+          ]
+        },
+        {
+          "name": "REFRI GARRAFA 600ml",
+          "description": "Coca, Fanta, Sprite, Guaraná.",
+          "variants": [
+            {
+              "name": "",
+              "price": 4.80
+            }
+          ]
+        },
+        {
+          "name": "COCA 2L",
+          "variants": [
+            {
+              "name": "",
+              "price": 8.90
+            }
+          ]
+        },
+        {
+          "name": "FANTA/SPRITE 2L",
+          "variants": [
+            {
+              "name": "",
+              "price": 7.90
+            }
+          ]
+        },
+        {
+          "name": "ENERGÉTICO MONSTER",
+          "description": "473ml",
+          "variants": [
+            {
+              "name": "",
+              "price": 9.30
+            }
+          ]
+        },
+        {
+          "name": "ÁGUA COM GÁS 510ml",
+          "variants": [
+            {
+              "name": "",
+              "price": 2.50
+            }
+          ]
+        },
+        {
+          "name": "ÁGUA SEM GÁS 510ml",
+          "variants": [
+            {
+              "name": "",
+              "price": 2.00
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "salgados_e_doces",
+      "image": "pao-de-queijo-fit (1).jpg",
+      "name": "Salgados e doces",
+      "items": [
+        {
+          "name": "Mini pães de queijo",
+          "description": "3 unidades.",
+          "variants": [
+            {
+              "name": "",
+              "price": 0.90
+            }
+          ]
+        },
+        {
+          "name": "Pão de queijo grande",
+          "variants": [
+            {
+              "name": "",
+              "price": 3.50
+            }
+          ]
+        },
+        {
+          "name": "biscoitão",
+          "long_variants": true,
+          "variants": [
+            {
+              "name": "simples",
+              "price": 1.00
+            },
+            {
+              "name": "com minas quente",
+              "price": 5.00
+            },
+            {
+              "name": "na chapa",
+              "price": 2.50
+            },
+            {
+              "name": "com manteiga",
+              "price": 1.40
+            },
+            {
+              "name": "misto",
+              "price": 5.50
+            },
+            {
+              "name": "com requeijão na chapa",
+              "price": 4.10
+            }
+          ]
+        },
+        {
+          "name": "cascudinho",
+          "long_variants": true,
+          "variants": [
+            {
+              "name": "simples",
+              "price": 1.00
+            },
+            {
+              "name": "com minas na chapa",
+              "price": 5.00
+            },
+            {
+              "name": "com requeijão na chapa",
+              "price": 4.10
+            },
+            {
+              "name": "com queijo na chapa",
+              "price": 5.50
+            }
+          ]
+        },
+        {
+          "name": "BISCOITÃO de QUEIJO",
+          "variants": [
+            {
+              "name": "",
+              "price": 1.00
+            }
+          ]
+        },
+        {
+          "name": "salgados",
+          "description": "Verificar disponibilidade do dia.",
+          "variants": [
+            {
+              "name": "",
+              "price": 3.50
+            }
+          ]
+        },
+        {
+          "name": "PÃO DE QUEIJO GRAnDE recheado na Chapa",
+          "long_variants": true,
+          "variants": [
+            {
+              "name": "Presunto e mussarela",
+              "price": 6.00
+            },
+            {
+              "name": "Requeijão",
+              "price": 5.50
+            },
+            {
+              "name": "Queijo minas e peito de peru",
+              "price": 7.50
+            },
+            {
+              "name": "Nutella",
+              "price": 7.00
+            }
+          ]
+        },
+        {
+          "name": "PÃO C/queijo quente e tomate",
+          "variants": [
+            {
+              "name": "",
+              "price": 5.00
+            }
+          ]
+        },
+        {
+          "name": "bolo confeitado pedaço",
+          "description": "Verificar disponibilidade.",
+          "variants": [
+            {
+              "name": "",
+              "price": 5.50
+            }
+          ]
+        },
+        {
+          "name": "bolo simples pedaço",
+          "description": "Verificar disponibilidade.",
+          "variants": [
+            {
+              "name": "",
+              "price": 4.00
+            }
+          ]
+        },
+        {
+          "name": "Broas",
+          "long_variants": true,
+          "variants": [
+            {
+              "name": "De fubá",
+              "price": 0.90
+            },
+            {
+              "name": "Mimosa",
+              "price": 1.00
+            },
+            {
+              "name": "Especial",
+              "price": 1.50
+            }
+          ]
+        },
+        {
+          "name": "bem casado",
+          "description": "Pão de ló recheado com doce de leite.",
+          "variants": [
+            {
+              "name": "",
+              "price": 3.80
+            }
+          ]
+        },
+        {
+          "name": "HAMBURGÃO",
+          "variants": [
+            {
+              "name": "",
+              "price": 6.00
+            }
+          ]
+        },
+        {
+          "name": "rabanada (unidade)",
+          "long_variants": true,
+          "variants": [
+            {
+              "name": "Simples",
+              "price": 3.80
+            },
+            {
+              "name": "c/ sorvete",
+              "price": 4.50
+            }
+          ]
+        },
+        {
+          "name": "bolinho de chuva",
+          "description": "3 unidades.",
+          "variants": [
+            {
+              "name": "",
+              "price": 2.50
+            }
+          ]
+        },
+        {
+          "name": "Bombons",
+          "variants": [
+            {
+              "name": "",
+              "price": 3.50
+            }
+          ]
+        },
+        {
+          "name": "Pudim de leite condensado",
+          "description": "Pedaço",
+          "variants": [
+            {
+              "name": "",
+              "price": 3.75
+            }
+          ]
+        },
+        {
+          "name": "SONHO",
+          "variants": [
+            {
+              "name": "",
+              "price": 2.00
+            }
+          ]
+        },
+        {
+          "name": "Alfajor",
+          "description": "Verificar disponibilidade.",
+          "variants": [
+            {
+              "name": "",
+              "price": 5.00
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lanches",
+      "image": "ola-mishchenko-600012-unsplash (1).jpg",
+      "name": "Lanches",
+      "items": [
+        {
+          "name": "Baguette (Pedaço)",
+          "extraInfo": "Com ou sem gergelim. Opção integral.",
+          "long_variants": true,
+          "variants": [
+            {
+              "name": "Peito de Peru, queijo, alface, tomate e molho especial",
+              "price": 4.90
+            },
+            {
+              "name": "Presunto, alface, tomate, ricota e molho especial",
+              "price": 5.50
+            }
+          ]
+        },
+        {
+          "name": "hAMBURGUINHO",
+          "description": "Pão francês, hamburger caseiro, presunto, queijo, alface e tomate.",
+          "extraInfo": "Adicione ovo por 1,50.",
+          "variants": [
+            {
+              "name": "",
+              "price": 7.95
+            }
+          ]
+        },
+        {
+          "name": "LANCHE integral",
+          "description": "Pão francês integral, peito de peru, queijo, alface, tomate e molho especial.",
+          "variants": [
+            {
+              "name": "",
+              "price": 6.50
+            }
+          ]
+        },
+        {
+          "name": "mini lanche",
+          "description": "Mini Pão de batata, presunto, queijo, alface, tomate e molho especial.",
+          "variants": [
+            {
+              "name": "",
+              "price": 5.30
+            }
+          ]
+        },
+        {
+          "name": "Pão SÍRIO",
+          "description": "Ver disponibilidade.",
+          "long_variants": true,
+          "variants": [
+            {
+              "name": "Peito de peru, queijo, alface, tomate, cenoura e molho especial.",
+              "price": 5.50
+            },
+            {
+              "name": "Manteiga",
+              "price": 3.00
+            },
+            {
+              "name": "Requeijão",
+              "price": 4.00
+            },
+            {
+              "name": "Nutella",
+              "price": 8.60
+            }
+          ]
+        },
+        {
+          "name": "hamburguinho fit",
+          "description": "Hamburger, ovo, alface e tomate servido no prato.",
+          "variants": [
+            {
+              "name": "",
+              "price": 5.50
+            }
+          ]
+        },
+        {
+          "name": "cascudinho na chapa",
+          "description": "Biscoito cascudinho com manteiga na chapa.",
+          "variants": [
+            {
+              "name": "",
+              "price": 2.50
+            }
+          ]
+        },
+        {
+          "name": "cascudinho c/ queijo",
+          "description": "Cascudinho com queijo minas na chapa.",
+          "variants": [
+            {
+              "name": "",
+              "price": 5.00
+            }
+          ]
+        },
+        {
+          "name": "CACHORRO QUENTE SIMPLES",
+          "description": "Pão francês ou hot dog e salsicha.",
+          "variants": [
+            {
+              "name": "",
+              "price": 3.50
+            }
+          ]
+        },
+        {
+          "name": "CACHORRO QUENTE ESPECIAL",
+          "description": "Pão francês ou hot dog, salsicha e batata palha.",
+          "variants": [
+            {
+              "name": "",
+              "price": 5.40
+            }
+          ]
+        },
+        {
+          "name": "omelete simples",
+          "variants": [
+            {
+              "name": "",
+              "price": 2.80
+            }
+          ]
+        },
+        {
+          "name": "omelete especial",
+          "description": "Com peito de peru e queijo minas ou muçarela.",
+          "variants": [
+            {
+              "name": "",
+              "price": 7.50
+            }
+          ]
+        },
+        {
+          "name": "ovo mexido especial",
+          "description": "Com peito de peru e queijo minas ou muçarela.",
+          "variants": [
+            {
+              "name": "",
+              "price": 7.50
+            }
+          ]
+        },
+        {
+          "name": "ovo mexido simples",
+          "description": "Um ovo mexido.",
+          "variants": [
+            {
+              "name": "",
+              "price": 2.30
+            }
+          ]
+        },
+        {
+          "name": "bauru",
+          "description": "Pão, presunto, quejo e tomate.",
+          "variants": [
+            {
+              "name": "",
+              "price": 7.20
+            }
+          ]
+        },
+        {
+          "name": "pão com manteiga",
+          "description": "Opcional pão integral.",
+          "variants": [
+            {
+              "name": "",
+              "price": 1.00
+            }
+          ]
+        },
+        {
+          "name": "pão doce com manteiga",
+          "variants": [
+            {
+              "name": "",
+              "price": 1.35
+            }
+          ]
+        },
+        {
+          "name": "pão de sal com requeijão",
+          "variants": [
+            {
+              "name": "",
+              "price": 2.75
+            }
+          ]
+        },
+        {
+          "name": "pão na chapa",
+          "long_variants": true,
+          "variants": [
+            {
+              "name": "simples",
+              "price": 2.00
+            },
+            {
+              "name": "com requeijão ",
+              "price": 3.60
+            }
+          ]
+        },
+        {
+          "name": "misto frio",
+          "long_variants": true,
+          "variants": [
+            {
+              "name": "simples",
+              "price": 4.20
+            },
+            {
+              "name": "com peito de peru",
+              "price": 5.10
+            }
+          ]
+        },
+        {
+          "name": "misto quente",
+          "long_variants": true,
+          "variants": [
+            {
+              "name": "simples",
+              "price": 5.00
+            },
+            {
+              "name": "com queijo minas e peito de peru",
+              "price": 7.20
+            }
+          ]
+        },
+        {
+          "name": "pão CARIOCA COM MANTEIGA",
+          "variants": [
+            {
+              "name": "",
+              "price": 2.30
+            }
+          ]
+        },
+        {
+          "name": "MARTa ROCHA com MANTEIGA",
+          "variants": [
+            {
+              "name": "",
+              "price": 2.30
+            }
+          ]
+        },
+        {
+          "name": "queijo quente",
+          "long_variants": true,
+          "variants": [
+            {
+              "name": "simples",
+              "price": 5.00
+            },
+            {
+              "name": "com tomate",
+              "price": 5.10
+            }
+          ]
+        },
+        {
+          "name": "queijo frio",
+          "variants": [
+            {
+              "name": "",
+              "price": 4.20
+            }
+          ]
+        },
+        {
+          "name": "pão de sal com nutella",
+          "variants": [
+            {
+              "name": "",
+              "price": 5.50
+            }
+          ]
+        },
+        {
+          "name": "pão doce com nutella",
+          "long_variants": true,
+          "variants": [
+            {
+              "name": "Simples",
+              "price": 5.50
+            },
+            {
+              "name": "Na chapa",
+              "price": 6.00
+            }
+          ]
+        },
+        {
+          "name": "pizza",
+          "description": "Pedaço. Ver disponibilidade do dia",
+          "variants": [
+            {
+              "name": "",
+              "price": 3.50
+            }
+          ]
+        },
+        {
+          "name": "pão com mortadela e queijo",
+          "long_variants": true,
+          "variants": [
+            {
+              "name": "Simples",
+              "price": 4.50
+            },
+            {
+              "name": "Na chapa",
+              "price": 5.00
+            }
+          ]
+        },
+        {
+          "name": "PÃO COM MORTADELA",
+          "long_variants": true,
+          "variants": [
+            {
+              "name": "Marba",
+              "price": 3.25
+            },
+            {
+              "name": "Defumada",
+              "price": 3.50
+            }
+          ]
+        },
+        {
+          "name": "TORRADA AMERICANA",
+          "description": "Pão de forma, mussarela e gergilim.",
+          "variants": [
+            {
+              "name": "",
+              "price": 5.00
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "caldos",
+      "image": "caldo-verde-2 (1).jpg",
+      "name": "Caldos",
+      "items": [
+        {
+          "name": "Caldo de feijão",
+          "description": "Verificar disponibilidade.",
+          "extraInfo": "Para viagem + R$ 0.50",
+          "variants": [
+            {
+              "name": "",
+              "price": 8.25
+            }
+          ]
+        },
+        {
+          "name": "Caldo verde",
+          "description": "Verificar disponibilidade.",
+          "extraInfo": "Para viagem + R$ 0.50",
+          "variants": [
+            {
+              "name": "",
+              "price": 8.25
+            }
+          ]
+        },
+        {
+          "name": "Caldo de MAndioquinha",
+          "description": "Verificar disponibilidade.",
+          "extraInfo": "Para viagem + R$ 0.50",
+          "variants": [
+            {
+              "name": "",
+              "price": 8.25
+            }
+          ]
+        },
+        {
+          "name": "Canjiquinha salgada",
+          "description": "Verificar disponibilidade.",
+          "extraInfo": "Para viagem + R$ 0.50",
+          "variants": [
+            {
+              "name": "",
+              "price": 6.20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "especiais-de-fim-de-ano",
+      "image": "photo-1543598098-622a5e218f43.jpeg",
+      "name": "Especiais de fim de ano",
+      "description": "Pedidos pelo Whatsapp: 35 999 205 825",
+      "items": [
+        {
+          "name": "Frios",
+          "long_variants": true,
+          "variants": [
+            {
+              "name": "CANAPÉ DE FRANGO"
+            },
+            {
+              "name": "CANAPÉ DE ABACAXI"
+            },
+            {
+              "name": "CANAPÉ ITALIANO"
+            },
+            {
+              "name": "CAPAPÉ DE PRESUNTO"
+            },
+            {
+              "name": "TARTALLETE"
+            },
+            {
+              "name": "BARQUETE"
+            },
+            {
+              "name": "MINI SALPICÃO"
+            }
+          ]
+        },
+        {
+          "name": "Assados",
+          "long_variants": true,
+          "variants": [
+            {
+              "name": "TROUXINHA DE FRANGO"
+            },
+            {
+              "name": "TROUXINHA DE QUATRO QUEIJOS"
+            },
+            {
+              "name": "TROUXINHA DE BACALHAU"
+            },
+            {
+              "name": "EMPADA DE CARNE SECA"
+            },
+            {
+              "name": "EMPADA DE FRANGO"
+            },
+            {
+              "name": "EMPADA DE CAMARÃO"
+            },
+            {
+              "name": "EMPADA DE CALABRESA"
+            },
+            {
+              "name": "EMPADA DE PALMITO"
+            }
+          ]
+        },
+        {
+          "name": "NOVIDADES",
+          "long_variants": true,
+          "variants": [
+            {
+              "name": "FIOS DE OVOS"
+            },
+            {
+              "name": "MINI QUICHE DE QUEIJO"
+            },
+            {
+              "name": "CASQUINHA DE BRIE COM GELEIA DE DAMASCO OU FRUTAS"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
