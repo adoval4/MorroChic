@@ -90,7 +90,7 @@
         },
         {
           "name": "Café C/ Chantilly",
-          "description": "Espresso e leite vaporizado, chocolate ou canela em pó. ",
+          "description": "Café Grande coado com chantilly. ",
           "variants": [
             {
               "name": "",
@@ -593,7 +593,7 @@
       "items": [
         {
           "name": "Mini pães de queijo",
-          "description": "3 unidades.",
+          "description": "Cada unidade.",
           "variants": [
             {
               "name": "",
@@ -785,11 +785,11 @@
         },
         {
           "name": "bolinho de chuva",
-          "description": "3 unidades.",
+          "description": "Cada unidade.",
           "variants": [
             {
               "name": "",
-              "price": 2.50
+              "price": 0.90
             }
           ]
         },
@@ -1008,43 +1008,89 @@
         },
         {
           "name": "pão com manteiga",
-          "description": "Opcional pão integral.",
-          "variants": [
-            {
-              "name": "",
-              "price": 1.00
-            }
-          ]
-        },
-        {
-          "name": "pão doce com manteiga",
-          "variants": [
-            {
-              "name": "",
-              "price": 1.35
-            }
-          ]
-        },
-        {
-          "name": "pão de sal com requeijão",
-          "variants": [
-            {
-              "name": "",
-              "price": 2.75
-            }
-          ]
-        },
-        {
-          "name": "pão na chapa",
           "long_variants": true,
           "variants": [
             {
-              "name": "simples",
+              "name": "Pão de sal",
+              "price": 1.30
+            },
+            {
+              "name": "Pão de batata",
+              "price": 1.70
+            },
+            {
+              "name": "Pão sovadinho",
+              "price": 1.70
+            },
+            {
+              "name": "Pão tatuzinho",
+              "price": 1.70
+            },
+            {
+              "name": "Marta Rocha",
+              "price": 2.90
+            },
+            {
+              "name": "Pão jacaré",
+              "price": 2.20
+            },
+            {
+              "name": "Pão de milho",
+              "price": 1.50
+            },
+            {
+              "name": "Pão doce",
+              "price": 1.50
+            },
+            {
+              "name": "Pão trança",
+              "price": 1.50
+            }
+          ]
+        },
+        {
+          "name": "pão com requeijão",
+          "long_variants": true,
+          "variants": [
+            {
+              "name": "Pão de sal",
+              "price": 1.80
+            },
+            {
+              "name": "Marta Rocha",
+              "price": 2.90
+            }
+          ]
+        },
+        {
+          "name": "pão na chapa com manteiga",
+          "long_variants": true,
+          "variants": [
+            {
+              "name": "Pão de batata",
+              "price": 2.30
+            },
+            {
+              "name": "Pão de sale",
+              "price": 2.20
+            },
+            {
+              "name": "Pão de milho",
               "price": 2.00
             },
             {
-              "name": "com requeijão ",
-              "price": 3.60
+              "name": "Pão liso",
+              "price": 2.00
+            }
+          ]
+        },
+        {
+          "name": "pão na chapa com requeijão",
+          "long_variants": true,
+          "variants": [
+            {
+              "name": "Pão de sal",
+              "price": 4.00
             }
           ]
         },
