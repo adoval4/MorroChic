@@ -1054,11 +1054,11 @@
           "variants": [
             {
               "name": "Pão de sal",
-              "price": 1.80
+              "price": 2.75
             },
             {
               "name": "Marta Rocha",
-              "price": 2.90
+              "price": 3.00
             }
           ]
         },
@@ -1071,7 +1071,7 @@
               "price": 2.30
             },
             {
-              "name": "Pão de sale",
+              "name": "Pão de sal",
               "price": 2.20
             },
             {
