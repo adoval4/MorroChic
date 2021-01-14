@@ -738,15 +738,19 @@
           "variants": [
             {
               "name": "De fubá",
-              "price": 0.90
+              "price": 1.50
             },
             {
               "name": "Mimosa",
-              "price": 1.00
+              "price": 1.20
             },
             {
-              "name": "Especial",
-              "price": 1.50
+              "name": "de chocalate",
+              "price": 2.40
+            },
+            {
+              "name": "de goiabada",
+              "price": 2.40
             }
           ]
         },
@@ -818,16 +822,6 @@
             {
               "name": "",
               "price": 2.00
-            }
-          ]
-        },
-        {
-          "name": "Alfajor",
-          "description": "Verificar disponibilidade.",
-          "variants": [
-            {
-              "name": "",
-              "price": 5.00
             }
           ]
         }
@@ -1124,15 +1118,6 @@
         },
         {
           "name": "pão CARIOCA COM MANTEIGA",
-          "variants": [
-            {
-              "name": "",
-              "price": 2.30
-            }
-          ]
-        },
-        {
-          "name": "MARTa ROCHA com MANTEIGA",
           "variants": [
             {
               "name": "",
