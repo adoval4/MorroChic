@@ -99,6 +99,45 @@
           ]
         },
         {
+          "name": "Café caramelo",
+          "long_variants": true,
+          "variants": [
+            {
+              "name": "Mineiro: Grão Arábico",
+              "price": 5.90
+            },
+            {
+              "name": "Rum: Sabor da bebido sem álcool",
+              "price": 5.90
+            },
+            {
+              "name": "Menta: Refrescante",
+              "price": 5.90
+            },
+            {
+              "name": "Amarula: Sabor da bebido sem álcool",
+              "price": 5.90
+            },
+            {
+              "name": "Panetone: Sabor de natal",
+              "price": 5.90
+            },
+            {
+              "name": "Descafeinado: Sem cafeina",
+              "price": 5.90
+            },
+            {
+              "name": "Composição: Leite e café caramelo",
+              "price": 5.90
+            }
+          ]
+        },
+        {
+          "name": "Café cremoso caramelo",
+          "description": "Verificar o preço",
+          "variants": []
+        },
+        {
           "name": "MORRO CHIC",
           "description": "Espresso, Doce de leite e leite vaporizado.",
           "variants": [
@@ -147,15 +186,6 @@
             {
               "name": "",
               "price": 11.10
-            }
-          ]
-        },
-        {
-          "name": "MORRO CHIC Refrescante",
-          "variants": [
-            {
-              "name": "",
-              "price": 9.40
             }
           ]
         },
@@ -631,6 +661,10 @@
               "price": 1.40
             },
             {
+              "name": "com requeijão",
+              "price": 2.00
+            },
+            {
               "name": "misto",
               "price": 5.50
             },
@@ -682,9 +716,13 @@
           ]
         },
         {
-          "name": "PÃO DE QUEIJO GRAnDE recheado na Chapa",
+          "name": "PÃO DE QUEIJO GRAnDE na Chapa",
           "long_variants": true,
           "variants": [
+            {
+              "name": "Simples",
+              "price": 4.00
+            },
             {
               "name": "Presunto e mussarela",
               "price": 6.00
@@ -1196,6 +1234,19 @@
           ]
         },
         {
+          "name": "pão com mortadela e queijo minas",
+          "variants": [
+            {
+              "name": "Frio",
+              "price": 4.50
+            },
+            {
+              "name": "Na chapa",
+              "price": 6.00
+            }
+          ]
+        },
+        {
           "name": "PÃO COM MORTADELA",
           "long_variants": true,
           "variants": [
@@ -1216,6 +1267,24 @@
             {
               "name": "",
               "price": 5.00
+            }
+          ]
+        },
+        {
+          "name": "Minas quente com tomate",
+          "variants": [
+            {
+              "name": "",
+              "price": 6.00
+            }
+          ]
+        },
+        {
+          "name": "Minas frio",
+          "variants": [
+            {
+              "name": "",
+              "price": 3.50
             }
           ]
         }
@@ -1267,6 +1336,73 @@
             {
               "name": "",
               "price": 6.20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "extras",
+      "image": "gab-pili-hcykktXYK0w-unsplash.jpg",
+      "name": "Ingredientes extras",
+      "items": [
+        {
+          "name": "Tomate",
+          "description": "2 rodelas",
+          "variants": [
+            {
+              "name": "",
+              "price": 0.60
+            }
+          ]
+        },
+        {
+          "name": "Ovo",
+          "description": "1 unidade",
+          "variants": [
+            {
+              "name": "",
+              "price": 1.00
+            }
+          ]
+        },
+        {
+          "name": "Chantilly",
+          "description": "1 colher",
+          "variants": [
+            {
+              "name": "",
+              "price": 2.50
+            }
+          ]
+        },
+        {
+          "name": "Nutella",
+          "description": "1 colher",
+          "variants": [
+            {
+              "name": "",
+              "price": 2.50
+            }
+          ]
+        },
+        {
+          "name": "Manteiga",
+          "description": "1 colher",
+          "variants": [
+            {
+              "name": "",
+              "price": 0.60
+            }
+          ]
+        },
+        {
+          "name": "Requeijão",
+          "description": "1 colher",
+          "variants": [
+            {
+              "name": "",
+              "price": 1.00
             }
           ]
         }
