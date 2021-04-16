@@ -706,7 +706,77 @@
           "variants": [
             {
               "name": "",
-              "price": 3.50
+              "price": 4.00
+            }
+          ]
+        },
+        {
+          "name": "Salgado GG",
+          "description": "Verificar disponibilidade do dia.",
+          "variants": [
+            {
+              "name": "",
+              "price": 6.00
+            }
+          ]
+        },
+        {
+          "name": "Coxinha de frango",
+          "description": "Verificar disponibilidade do dia.",
+          "variants": [
+            {
+              "name": "",
+              "price": 4.00
+            }
+          ]
+        },
+        {
+          "name": "Enroladinho de pizza",
+          "description": "Verificar disponibilidade do dia.",
+          "variants": [
+            {
+              "name": "",
+              "price": 4.00
+            }
+          ]
+        },
+        {
+          "name": "Folheados",
+          "description": "Verificar disponibilidade do dia.",
+          "variants": [
+            {
+              "name": "",
+              "price": 4.00
+            }
+          ]
+        },
+        {
+          "name": "Docinhos",
+          "description": "Verificar disponibilidade do dia.",
+          "variants": [
+            {
+              "name": "",
+              "price": 4.50
+            }
+          ]
+        },
+        {
+          "name": "Docinhos",
+          "description": "Verificar disponibilidade do dia.",
+          "variants": [
+            {
+              "name": "",
+              "price": 4.50
+            }
+          ]
+        },
+        {
+          "name": "Salada de fruta",
+          "description": "Verificar disponibilidade do dia.",
+          "variants": [
+            {
+              "name": "",
+              "price": 6.00
             }
           ]
         },
@@ -835,7 +905,7 @@
           "variants": [
             {
               "name": "",
-              "price": 3.50
+              "price": 4.50
             }
           ]
         },
@@ -970,7 +1040,7 @@
           "variants": [
             {
               "name": "",
-              "price": 3.50
+              "price": 4.75
             }
           ]
         },
@@ -980,7 +1050,7 @@
           "variants": [
             {
               "name": "",
-              "price": 5.40
+              "price": 5.75
             }
           ]
         },
@@ -1297,7 +1367,7 @@
           "variants": [
             {
               "name": "",
-              "price": 8.25
+              "price": 8.75
             }
           ]
         },
@@ -1308,7 +1378,7 @@
           "variants": [
             {
               "name": "",
-              "price": 8.25
+              "price": 8.75
             }
           ]
         },
@@ -1319,7 +1389,7 @@
           "variants": [
             {
               "name": "",
-              "price": 8.25
+              "price": 8.75
             }
           ]
         },
@@ -1330,7 +1400,7 @@
           "variants": [
             {
               "name": "",
-              "price": 6.20
+              "price": 7.20
             }
           ]
         }
