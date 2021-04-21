@@ -1352,6 +1352,15 @@
               "price": 3.50
             }
           ]
+        },
+        {
+          "name": "Pão com ovo",
+          "variants": [
+            {
+              "name": "",
+              "price": 2.60
+            }
+          ]
         }
       ]
     },
