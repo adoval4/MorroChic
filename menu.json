@@ -631,7 +631,7 @@
           "variants": [
             {
               "name": "",
-              "price": 3.50
+              "price": 4.00
             }
           ]
         },
@@ -802,7 +802,7 @@
             },
             {
               "name": "Nutella",
-              "price": 7.00
+              "price": 8.00
             }
           ]
         },
@@ -811,7 +811,7 @@
           "variants": [
             {
               "name": "",
-              "price": 5.00
+              "price": 6.00
             }
           ]
         },
@@ -1456,7 +1456,7 @@
           "variants": [
             {
               "name": "",
-              "price": 2.50
+              "price": 4.00
             }
           ]
         },
