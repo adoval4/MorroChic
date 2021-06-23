@@ -675,7 +675,7 @@
           "variants": [
             {
               "name": "simples",
-              "price": 1.00
+              "price": 1.20
             },
             {
               "name": "com minas na chapa",
@@ -696,7 +696,7 @@
           "variants": [
             {
               "name": "",
-              "price": 1.00
+              "price": 1.20
             }
           ]
         },
