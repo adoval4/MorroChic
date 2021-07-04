@@ -13,11 +13,11 @@
           "variants": [
             {
               "name": "P",
-              "price": 0.90
+              "price": 1.20
             },
             {
               "name": "G",
-              "price": 1.50
+              "price": 2.00
             }
           ]
         },
@@ -27,15 +27,15 @@
           "variants": [
             {
               "name": "P",
-              "price": 1.50
-            },
-            {
-              "name": "M",
               "price": 2.00
             },
             {
+              "name": "M",
+              "price": 2.50
+            },
+            {
               "name": "G",
-              "price": 3.50
+              "price": 4.90
             }
           ]
         },
@@ -46,11 +46,11 @@
           "variants": [
             {
               "name": "P",
-              "price": 3.65
+              "price": 5.00
             },
             {
               "name": "G",
-              "price": 7.00
+              "price": 9.00
             }
           ]
         },
@@ -60,7 +60,7 @@
           "variants": [
             {
               "name": "",
-              "price": 3.65
+              "price": 5.00
             }
           ]
         },
@@ -70,7 +70,7 @@
           "variants": [
             {
               "name": "",
-              "price": 4.00
+              "price": 5.50
             }
           ]
         },
@@ -80,11 +80,11 @@
           "variants": [
             {
               "name": "P",
-              "price": 4.50
+              "price": 5.70
             },
             {
               "name": "G",
-              "price": 5.90
+              "price": 7.80
             }
           ]
         },
@@ -94,7 +94,7 @@
           "variants": [
             {
               "name": "",
-              "price": 5.50
+              "price": 7.20
             }
           ]
         },
@@ -138,11 +138,11 @@
           "variants": [
             {
               "name": "P",
-              "price": 6.95
+              "price": 9.20
             },
             {
               "name": "G",
-              "price": 10.50
+              "price": 13.50
             }
           ]
         },
@@ -152,11 +152,11 @@
           "variants": [
             {
               "name": "P",
-              "price": 6.40
+              "price": 8.20
             },
             {
               "name": "G",
-              "price": 10.50
+              "price": 13.50
             }
           ]
         },
@@ -166,11 +166,11 @@
           "variants": [
             {
               "name": "P",
-              "price": 8.50
+              "price": 10.90
             },
             {
               "name": "G",
-              "price": 13.00
+              "price": 16.90
             }
           ]
         },
@@ -180,7 +180,7 @@
           "variants": [
             {
               "name": "",
-              "price": 11.10
+              "price": 14.90
             }
           ]
         },
@@ -190,11 +190,11 @@
           "variants": [
             {
               "name": "P",
-              "price": 3.90
+              "price": 5.40
             },
             {
               "name": "G",
-              "price": 7.20
+              "price": 9.40
             }
           ]
         },
@@ -204,11 +204,11 @@
           "variants": [
             {
               "name": "P",
-              "price": 5.00
+              "price": 6.50
             },
             {
               "name": "G",
-              "price": 7.70
+              "price": 9.90
             }
           ]
         },
@@ -218,11 +218,11 @@
           "variants": [
             {
               "name": "P",
-              "price": 4.95
+              "price": 6.50
             },
             {
               "name": "G",
-              "price": 7.70
+              "price": 9.90
             }
           ]
         },
@@ -232,11 +232,11 @@
           "variants": [
             {
               "name": "P",
-              "price": 4.30
+              "price": 5.50
             },
             {
               "name": "G",
-              "price": 8.40
+              "price": 11.00
             }
           ]
         },
@@ -245,7 +245,7 @@
           "variants": [
             {
               "name": "",
-              "price": 9.90
+              "price": 13.00
             }
           ]
         },
@@ -255,7 +255,7 @@
           "variants": [
             {
               "name": "",
-              "price": 9.90
+              "price": 13.00
             }
           ]
         },
@@ -265,7 +265,7 @@
           "variants": [
             {
               "name": "",
-              "price": 9.90
+              "price": 13.00
             }
           ]
         },
@@ -275,7 +275,7 @@
           "variants": [
             {
               "name": "",
-              "price": 13.70
+              "price": 17.90
             }
           ]
         },
@@ -286,7 +286,7 @@
           "variants": [
             {
               "name": "",
-              "price": 10.70
+              "price": 13.90
             }
           ]
         },
@@ -297,11 +297,11 @@
           "variants": [
             {
               "name": "M",
-              "price": 5.60
+              "price": 7.30
             },
             {
               "name": "G",
-              "price": 7.20
+              "price": 9.50
             }
           ]
         },
@@ -311,7 +311,7 @@
           "variants": [
             {
               "name": "",
-              "price": 16.00
+              "price": 20.00
             }
           ]
         },
@@ -321,7 +321,7 @@
           "variants": [
             {
               "name": "",
-              "price": 9.80
+              "price": 12.75
             }
           ]
         },
@@ -331,7 +331,7 @@
           "variants": [
             {
               "name": "",
-              "price": 13.00
+              "price": 15.80
             }
           ]
         },
@@ -342,7 +342,7 @@
           "variants": [
             {
               "name": "",
-              "price": 13.00
+              "price": 15.80
             }
           ]
         },
@@ -352,7 +352,7 @@
           "variants": [
             {
               "name": "",
-              "price": 13.40
+              "price": 16.50
             }
           ]
         },
@@ -362,7 +362,7 @@
           "variants": [
             {
               "name": "",
-              "price": 13.90
+              "price": 16.50
             }
           ]
         },
@@ -372,7 +372,7 @@
           "variants": [
             {
               "name": "",
-              "price": 13.80
+              "price": 16.50
             }
           ]
         },
@@ -382,7 +382,7 @@
           "variants": [
             {
               "name": "",
-              "price": 14.90
+              "price": 18.90
             }
           ]
         },
@@ -392,11 +392,11 @@
           "variants": [
             {
               "name": "P",
-              "price": 2.00
+              "price": 3.00
             },
             {
               "name": "G",
-              "price": 3.30
+              "price": 5.00
             }
           ]
         }
