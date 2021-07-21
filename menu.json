@@ -55,6 +55,15 @@
           ]
         },
         {
+          "name": "Pingado Espresso",
+          "variants": [
+            {
+              "name": "",
+              "price": 6.00
+            }
+          ]
+        },
+        {
           "name": "Espresso Carioca",
           "description": "Café espresso fraco com maior proporção de água.",
           "variants": [
@@ -886,7 +895,7 @@
             },
             {
               "name": "c/ sorvete",
-              "price": 4.50
+              "price": 7.00
             }
           ]
         },
