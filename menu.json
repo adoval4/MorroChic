@@ -1093,6 +1093,16 @@
           ]
         },
         {
+          "name": "Crepioca",
+          "description": "Presunto, mussarela, ovo, tomate e orégano.",
+          "variants": [
+            {
+              "name": "",
+              "price": 8.20
+            }
+          ]
+        },
+        {
           "name": "bauru",
           "description": "Pão, presunto, quejo e tomate.",
           "variants": [
