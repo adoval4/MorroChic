@@ -1103,6 +1103,16 @@
           ]
         },
         {
+          "name": "Crepioca Doce",
+          "description": "Farinha de tapioca, banana, queijo minas e canela.",
+          "variants": [
+            {
+              "name": "",
+              "price": 8.20
+            }
+          ]
+        },
+        {
           "name": "bauru",
           "description": "Pão, presunto, quejo e tomate.",
           "variants": [
