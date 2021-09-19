@@ -9,7 +9,7 @@
         {
           "name": "Café coado",
           "description": "Feito no coador.",
-          "extraInfo": "Para viagem + R$ 2,00",
+          "extraInfo": "Para viagem + R$ 2.00",
           "variants": [
             {
               "name": "P",
@@ -418,7 +418,7 @@
       "items": [
         {
           "name": "Suco natural laranja",
-          "extraInfo": "Para viagem + R$ 2,00",
+          "extraInfo": "Para viagem + R$ 2.00",
           "variants": [
             {
               "name": "P",
@@ -433,7 +433,7 @@
         {
           "name": "SUCO POLPA",
           "description": "Verificar disponibilidade do dia",
-          "extraInfo": "Para viagem + R$ 1.00",
+          "extraInfo": "Para viagem + R$ 2.00",
           "variants": [
             {
               "name": "",
@@ -444,7 +444,7 @@
         {
           "name": "SUCO POLPA COM LEITE",
           "description": "Verificar disponibilidade do dia.",
-          "extraInfo": "Para viagem + R$ 1.20",
+          "extraInfo": "Para viagem + R$ 2.00",
           "variants": [
             {
               "name": "",
@@ -455,7 +455,7 @@
         {
           "name": "SUCO DE POLPA COM LARANJA",
           "description": "Verificar disponibilidade do dia.",
-          "extraInfo": "Para viagem + R$ 1.00",
+          "extraInfo": "Para viagem + R$ 2.00",
           "variants": [
             {
               "name": "",
@@ -1391,7 +1391,7 @@
         {
           "name": "Caldo de feijão",
           "description": "Verificar disponibilidade.",
-          "extraInfo": "Para viagem + R$ 0.50",
+          "extraInfo": "Para viagem + R$ 2.00",
           "variants": [
             {
               "name": "",
@@ -1402,7 +1402,7 @@
         {
           "name": "Caldo verde",
           "description": "Verificar disponibilidade.",
-          "extraInfo": "Para viagem + R$ 0.50",
+          "extraInfo": "Para viagem + R$ 2.00",
           "variants": [
             {
               "name": "",
@@ -1413,7 +1413,7 @@
         {
           "name": "Caldo de MAndioquinha",
           "description": "Verificar disponibilidade.",
-          "extraInfo": "Para viagem + R$ 0.50",
+          "extraInfo": "Para viagem + R$ 2.00",
           "variants": [
             {
               "name": "",
@@ -1424,7 +1424,7 @@
         {
           "name": "Canjiquinha salgada",
           "description": "Verificar disponibilidade.",
-          "extraInfo": "Para viagem + R$ 0.50",
+          "extraInfo": "Para viagem + R$ 2.00",
           "variants": [
             {
               "name": "",
