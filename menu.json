@@ -646,6 +646,7 @@
         },
         {
           "name": "biscoitão",
+          "description": "Verificar disponibilidade.",
           "long_variants": true,
           "variants": [
             {
@@ -702,6 +703,7 @@
         },
         {
           "name": "BISCOITÃO de QUEIJO",
+          "description": "Verificar disponibilidade.",
           "variants": [
             {
               "name": "",
@@ -1015,7 +1017,7 @@
         },
         {
           "name": "cascudinho na chapa",
-          "description": "Biscoito cascudinho com manteiga na chapa.",
+          "description": "Biscoito cascudinho com manteiga na chapa. Verificar disponibilidade.",
           "variants": [
             {
               "name": "",
