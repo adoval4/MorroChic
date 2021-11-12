@@ -13,11 +13,11 @@
           "variants": [
             {
               "name": "P",
-              "price": 1.20
+              "price": 1.50
             },
             {
               "name": "G",
-              "price": 2.00
+              "price": 2.30
             }
           ]
         },
@@ -27,15 +27,15 @@
           "variants": [
             {
               "name": "P",
-              "price": 2.00
-            },
-            {
-              "name": "M",
               "price": 2.50
             },
             {
+              "name": "M",
+              "price": 3.00
+            },
+            {
               "name": "G",
-              "price": 4.90
+              "price": 5.30
             }
           ]
         },
@@ -422,11 +422,11 @@
           "variants": [
             {
               "name": "P",
-              "price": 4.00
+              "price": 5.00
             },
             {
               "name": "G",
-              "price": 5.50
+              "price": 6.50
             }
           ]
         },
@@ -459,7 +459,7 @@
           "variants": [
             {
               "name": "",
-              "price": 7.00
+              "price": 7.50
             }
           ]
         },
@@ -473,15 +473,11 @@
           ]
         },
         {
-          "name": "SUCO DEL VALLE",
+          "name": "SUCO DEL VALLE Lata",
           "variants": [
             {
-              "name": "200 ML",
-              "price": 3.60
-            },
-            {
-              "name": "290 ML",
-              "price": 3.90
+              "name": "",
+              "price": 4.00
             }
           ]
         },
@@ -536,7 +532,7 @@
           "variants": [
             {
               "name": "",
-              "price": 2.80
+              "price": 3.00
             }
           ]
         },
@@ -552,13 +548,49 @@
           ]
         },
         {
+          "name": "Sprite fresh",
+          "variants": [
+            {
+              "name": "",
+              "price": 3.80
+            }
+          ]
+        },
+        {
+          "name": "I9",
+          "variants": [
+            {
+              "name": "",
+              "price": 4.80
+            }
+          ]
+        },
+        {
+          "name": "Kapo",
+          "variants": [
+            {
+              "name": "",
+              "price": 2.50
+            }
+          ]
+        },
+        {
+          "name": "MONSTER",
+          "variants": [
+            {
+              "name": "",
+              "price": 10.50
+            }
+          ]
+        },
+        {
           "name": "REFRI LATA 350ml",
           "description": "Coca, Fanta.",
           "extraInfo": "Ver disponibilidade.",
           "variants": [
             {
               "name": "",
-              "price": 3.50
+              "price": 4.50
             }
           ]
         },
@@ -568,7 +600,7 @@
           "variants": [
             {
               "name": "",
-              "price": 4.80
+              "price": 5.50
             }
           ]
         },
@@ -577,16 +609,16 @@
           "variants": [
             {
               "name": "",
-              "price": 8.90
+              "price": 9.60
             }
           ]
         },
         {
-          "name": "FANTA/SPRITE 2L",
+          "name": "FANTA/SPRITE/kuat 2L",
           "variants": [
             {
               "name": "",
-              "price": 7.90
+              "price": 8.90
             }
           ]
         },
@@ -615,6 +647,24 @@
             {
               "name": "",
               "price": 2.00
+            }
+          ]
+        },
+        {
+          "name": "ÁGUA COM GÁS 1L",
+          "variants": [
+            {
+              "name": "",
+              "price": 4.00
+            }
+          ]
+        },
+        {
+          "name": "ÁGUA SEM GÁS 1.5L",
+          "variants": [
+            {
+              "name": "",
+              "price": 5.00
             }
           ]
         }
@@ -651,7 +701,7 @@
           "variants": [
             {
               "name": "simples",
-              "price": 1.00
+              "price": 1.20
             },
             {
               "name": "com minas quente",
@@ -663,19 +713,19 @@
             },
             {
               "name": "com manteiga",
-              "price": 1.40
+              "price": 1.50
             },
             {
               "name": "com requeijão",
-              "price": 2.00
-            },
-            {
-              "name": "misto",
-              "price": 5.50
+              "price": 2.50
             },
             {
               "name": "com requeijão na chapa",
               "price": 4.10
+            },
+            {
+              "name": "misto",
+              "price": 6.00
             }
           ]
         },
@@ -685,10 +735,10 @@
           "variants": [
             {
               "name": "simples",
-              "price": 1.20
+              "price": 1.50
             },
             {
-              "name": "com minas na chapa",
+              "name": "com minas/mussarela na chapa",
               "price": 5.00
             },
             {
@@ -707,22 +757,22 @@
           "variants": [
             {
               "name": "",
-              "price": 1.20
+              "price": 2.00
             }
           ]
         },
         {
-          "name": "salgados",
+          "name": "salgados simples",
           "description": "Verificar disponibilidade do dia.",
           "variants": [
             {
               "name": "",
-              "price": 4.00
+              "price": 4.50
             }
           ]
         },
         {
-          "name": "Salgado GG",
+          "name": "Salgado GGrande",
           "description": "Verificar disponibilidade do dia.",
           "variants": [
             {
@@ -757,7 +807,7 @@
           "variants": [
             {
               "name": "",
-              "price": 4.00
+              "price": 6.00
             }
           ]
         },
@@ -812,7 +862,7 @@
           "variants": [
             {
               "name": "",
-              "price": 6.00
+              "price": 6.50
             }
           ]
         },
@@ -842,15 +892,15 @@
           "variants": [
             {
               "name": "De fubá",
-              "price": 1.50
+              "price": 1.80
             },
             {
               "name": "Mimosa",
-              "price": 1.20
+              "price": 1.80
             },
             {
               "name": "de chocalate",
-              "price": 2.40
+              "price": 2.80
             },
             {
               "name": "de goiabada",
@@ -958,7 +1008,17 @@
           "variants": [
             {
               "name": "",
-              "price": 7.95
+              "price": 8.50
+            }
+          ]
+        },
+        {
+          "name": "hamburguinho fit",
+          "description": "Hamburger, ovo, alface e tomate servido no prato.",
+          "variants": [
+            {
+              "name": "",
+              "price": 6.50
             }
           ]
         },
@@ -1006,22 +1066,12 @@
           ]
         },
         {
-          "name": "hamburguinho fit",
-          "description": "Hamburger, ovo, alface e tomate servido no prato.",
-          "variants": [
-            {
-              "name": "",
-              "price": 5.50
-            }
-          ]
-        },
-        {
           "name": "cascudinho na chapa",
           "description": "Biscoito cascudinho com manteiga na chapa. Verificar disponibilidade.",
           "variants": [
             {
               "name": "",
-              "price": 2.50
+              "price": 3.00
             }
           ]
         },
@@ -1031,7 +1081,7 @@
           "variants": [
             {
               "name": "",
-              "price": 5.00
+              "price": 5.50
             }
           ]
         },
@@ -1130,39 +1180,43 @@
           "variants": [
             {
               "name": "Pão de sal",
-              "price": 1.30
+              "price": 1.50
             },
             {
               "name": "Pão de batata",
-              "price": 1.70
+              "price": 2.00
             },
             {
               "name": "Pão sovadinho",
-              "price": 1.70
+              "price": 2.00
             },
             {
               "name": "Pão tatuzinho",
-              "price": 1.70
+              "price": 2.00
             },
             {
               "name": "Marta Rocha",
-              "price": 2.90
+              "price": 3.30
             },
             {
               "name": "Pão jacaré",
-              "price": 2.20
+              "price": 2.50
+            },
+            {
+              "name": "Pão carioca",
+              "price": 2.50
             },
             {
               "name": "Pão de milho",
-              "price": 1.50
+              "price": 1.80
             },
             {
               "name": "Pão doce",
-              "price": 1.50
+              "price": 1.80
             },
             {
               "name": "Pão trança",
-              "price": 1.50
+              "price": 1.80
             }
           ]
         },
@@ -1172,11 +1226,11 @@
           "variants": [
             {
               "name": "Pão de sal",
-              "price": 2.75
+              "price": 2.80
             },
             {
               "name": "Marta Rocha",
-              "price": 3.00
+              "price": 3.30
             }
           ]
         },
@@ -1186,19 +1240,19 @@
           "variants": [
             {
               "name": "Pão de batata",
-              "price": 2.30
+              "price": 2.50
             },
             {
               "name": "Pão de sal",
-              "price": 2.20
+              "price": 2.30
             },
             {
               "name": "Pão de milho",
-              "price": 2.00
+              "price": 2.30
             },
             {
               "name": "Pão liso",
-              "price": 2.00
+              "price": 2.30
             }
           ]
         },
@@ -1232,7 +1286,11 @@
           "variants": [
             {
               "name": "simples",
-              "price": 5.00
+              "price": 6.00
+            },
+            {
+              "name": "frio",
+              "price": 5.50
             },
             {
               "name": "com queijo minas e peito de peru",
@@ -1255,11 +1313,11 @@
           "variants": [
             {
               "name": "simples",
-              "price": 5.00
+              "price": 6.00
             },
             {
               "name": "com tomate",
-              "price": 5.10
+              "price": 6.50
             }
           ]
         },
@@ -1268,7 +1326,7 @@
           "variants": [
             {
               "name": "",
-              "price": 4.20
+              "price": 5.00
             }
           ]
         },
@@ -1287,11 +1345,11 @@
           "variants": [
             {
               "name": "Simples",
-              "price": 5.50
+              "price": 6.50
             },
             {
               "name": "Na chapa",
-              "price": 6.00
+              "price": 7.50
             }
           ]
         },
@@ -1370,7 +1428,7 @@
           "variants": [
             {
               "name": "",
-              "price": 3.50
+              "price": 4.00
             }
           ]
         },
