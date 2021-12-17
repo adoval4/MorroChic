@@ -320,7 +320,7 @@
           "variants": [
             {
               "name": "",
-              "price": 20.00
+              "price": 20.80
             }
           ]
         },
@@ -956,7 +956,7 @@
           "variants": [
             {
               "name": "",
-              "price": 4.50
+              "price": 4.80
             }
           ]
         },
@@ -1272,11 +1272,11 @@
           "variants": [
             {
               "name": "simples",
-              "price": 4.20
+              "price": 5.00
             },
             {
               "name": "com peito de peru",
-              "price": 5.10
+              "price": 6.10
             }
           ]
         },
@@ -1299,7 +1299,7 @@
           "variants": [
             {
               "name": "",
-              "price": 2.30
+              "price": 2.50
             }
           ]
         },
