@@ -2,6 +2,7 @@
 <html lang="en" dir="ltr">
 <head>
   <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title></title>
 </head>
 <body>
@@ -12,13 +13,13 @@
 
 // Add the SDK credentials
 const mp = new MercadoPago('TEST-9683a462-0f38-4346-9520-f88167e277e7', {
-      locale: 'es'
+  locale: 'en-US'
 });
 
 // Initialize the checkout
 mp.checkout({
   preference: {
-      id: '767936574-d157d543-e591-4bd7-8fe4-470c92ea870a'
+      id: '767936574-10f98e42-3d6b-41e8-8677-d4879095a8ce'
   },
   render: {
     container: '#button-checkout', // Indicates the name of the class where the payment button will be displayed
