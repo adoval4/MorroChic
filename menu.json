@@ -108,40 +108,6 @@
           ]
         },
         {
-          "name": "Café caramelo",
-          "long_variants": true,
-          "variants": [
-            {
-              "name": "Mineiro: Grão Arábico",
-              "price": 5.90
-            },
-            {
-              "name": "Rum: Sabor da bebido sem álcool",
-              "price": 5.90
-            },
-            {
-              "name": "Menta: Refrescante",
-              "price": 5.90
-            },
-            {
-              "name": "Amarula: Sabor da bebido sem álcool",
-              "price": 5.90
-            },
-            {
-              "name": "Panetone: Sabor de natal",
-              "price": 5.90
-            },
-            {
-              "name": "Descafeinado: Sem cafeina",
-              "price": 5.90
-            },
-            {
-              "name": "Composição: Leite e café caramelo",
-              "price": 5.90
-            }
-          ]
-        },
-        {
           "name": "MORRO CHIC",
           "description": "Espresso, Doce de leite e leite vaporizado.",
           "variants": [
