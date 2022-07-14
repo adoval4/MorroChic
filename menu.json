@@ -1052,26 +1052,6 @@
           ]
         },
         {
-          "name": "CACHORRO QUENTE SIMPLES",
-          "description": "Pão francês ou hot dog e salsicha.",
-          "variants": [
-            {
-              "name": "",
-              "price": 6.50
-            }
-          ]
-        },
-        {
-          "name": "CACHORRO QUENTE ESPECIAL",
-          "description": "Pão francês ou hot dog, salsicha e batata palha.",
-          "variants": [
-            {
-              "name": "",
-              "price": 6.80
-            }
-          ]
-        },
-        {
           "name": "omelete simples",
           "variants": [
             {
