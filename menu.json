@@ -225,7 +225,7 @@
 				},
 				{
 					"name": "ICE CAPUCCINO",
-					"description": "Capuccino gelado com xarope de amêndoa ou macadâmia.",
+					"description": "Capuccino gelado com xarope de amêndoa, macadâmia ou avelã.",
 					"extraInfo": "Ver disponibilidade do dia.",
 					"variants": [{
 						"name": "",
@@ -256,7 +256,7 @@
 				},
 				{
 					"name": "choco NUT",
-					"description": "Cacau em pó, leite vaporizado, flavour amêndoas.",
+					"description": "Cacau em pó, leite vaporizado, flavour amêndoas ou avelã.",
 					"variants": [{
 						"name": "",
 						"price": 15.00
