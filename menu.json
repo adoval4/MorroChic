@@ -201,10 +201,10 @@
 				},
 				{
 					"name": "CAPUCCINO GELADO",
-					"description": "Espresso, leite, leite condesado, chocolate e gelo.",
+					"description": "Espresso, leite, leite condesado, chocolate, chantilly e gelo.",
 					"variants": [{
 						"name": "",
-						"price": 15.60
+						"price": 19.60
 					}]
 				},
 				{
@@ -793,7 +793,7 @@
 					"extraInfo": "Adicione ovo por 1,50.",
 					"variants": [{
 						"name": "",
-						"price": 8.50
+						"price": 12.00
 					}]
 				},
 				{
@@ -801,7 +801,7 @@
 					"description": "Hamburger, ovo, alface e tomate servido no prato.",
 					"variants": [{
 						"name": "",
-						"price": 6.50
+						"price": 9.90
 					}]
 				},
 				{
@@ -809,7 +809,7 @@
 					"description": "Pão francês integral, peito de peru, queijo, alface, tomate e molho especial.",
 					"variants": [{
 						"name": "",
-						"price": 7.00
+						"price": 8.00
 					}]
 				},
 				{
@@ -817,7 +817,7 @@
 					"description": "Mini Pão de batata, presunto, queijo, alface, tomate e molho especial.",
 					"variants": [{
 						"name": "",
-						"price": 5.30
+						"price": 7.00
 					}]
 				},
 				{
