@@ -779,11 +779,11 @@
 					"long_variants": true,
 					"variants": [{
 							"name": "Peito de Peru, queijo, alface, tomate e molho especial",
-							"price": 4.90
+							"price": 6.00
 						},
 						{
 							"name": "Presunto, alface, tomate, ricota e molho especial",
-							"price": 5.50
+							"price": 7.90
 						}
 					]
 				},
