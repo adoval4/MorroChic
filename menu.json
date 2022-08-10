@@ -687,22 +687,6 @@
 					]
 				},
 				{
-					"name": "bolo confeitado pedaço",
-					"description": "Verificar disponibilidade.",
-					"variants": [{
-						"name": "",
-						"price": 5.50
-					}]
-				},
-				{
-					"name": "bolo simples pedaço",
-					"description": "Verificar disponibilidade.",
-					"variants": [{
-						"name": "",
-						"price": 4.00
-					}]
-				},
-				{
 					"name": "Broas",
 					"long_variants": true,
 					"variants": [{
