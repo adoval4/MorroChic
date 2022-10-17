@@ -405,7 +405,7 @@
 					"description": "Água com gás, flavour de maçã verde, tangerina ou maracujá.",
 					"variants": [{
 						"name": "",
-						"price": 14.00
+						"price": 14.90
 					}]
 				},
 				{
@@ -504,14 +504,14 @@
 					"name": "ÁGUA COM GÁS 510ml",
 					"variants": [{
 						"name": "",
-						"price": 2.50
+						"price": 3.00
 					}]
 				},
 				{
 					"name": "ÁGUA SEM GÁS 510ml",
 					"variants": [{
 						"name": "",
-						"price": 2.00
+						"price": 2.50
 					}]
 				},
 				{
@@ -1042,7 +1042,7 @@
 						},
 						{
 							"name": "Na chapa",
-							"price": 6.00
+							"price": 8.00
 						}
 					]
 				},
